@@ -50,7 +50,3 @@ A passionate developer and data analyst focused on building intelligent solution
 
 ## 📫 How to Reach Me
 - 📧 **Email:** mravi9748@gmail.com
----
-
-## 📫 How to Reach Me
-- 📧 **Email:** mravi9748@gmail.com
