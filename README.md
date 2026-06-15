@@ -23,7 +23,10 @@ A passionate developer and data analyst focused on building intelligent solution
 
 ### Tools & Version Control
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Google_Gemini-8E75FF?style=for-the-badge&logo=googlegemini&logoColor=white)
+![Blackbox AI](https://img.shields.io/badge/Blackbox_AI-000000?style=for-the-badge&logo=blackbox&logoColor=cyan)
 ---
 
 ## 💻 Featured Projects
