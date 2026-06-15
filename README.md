@@ -15,15 +15,22 @@ A passionate developer and data analyst focused on building intelligent solution
 
 ### Languages & Backend
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
-### Web Development & Tools
+### Web Development
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+### Tools & Version Control
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
 ## 💻 Featured Projects
+
+### 🎬 Movie Review Sentiment Analysis
+- Developed a Natural Language Processing (NLP) pipeline to analyze and classify movie reviews as positive or negative.
+- Implemented text preprocessing techniques (tokenization, stop-word removal, and lemmatization) alongside classification algorithms to derive sentiment insights from textual data.
 
 ### 🤖 AI-Powered Web Applications
 - Developed intelligent web applications leveraging the **Google Gemini API** for natural language understanding and automated processing.
@@ -39,6 +46,10 @@ A passionate developer and data analyst focused on building intelligent solution
 - 🧠 Solving algorithmic challenges and refining core programming fundamentals.
 - 📊 Exploring advanced data visualization and analytical modeling techniques.
 
+---
+
+## 📫 How to Reach Me
+- 📧 **Email:** mravi9748@gmail.com
 ---
 
 ## 📫 How to Reach Me
